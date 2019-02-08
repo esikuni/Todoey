@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6E57FD23220BB971009C73F5 /* CategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E57FD22220BB971009C73F5 /* CategoryViewController.swift */; };
 		6E5D85A321FF06E300414C79 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E5D85A221FF06E300414C79 /* AppDelegate.swift */; };
 		6E5D85A521FF06E300414C79 /* TodoListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E5D85A421FF06E300414C79 /* TodoListViewController.swift */; };
 		6E5D85A821FF06E300414C79 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E5D85A621FF06E300414C79 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6E57FD22220BB971009C73F5 /* CategoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryViewController.swift; sourceTree = "<group>"; };
 		6E5D859F21FF06E300414C79 /* Todoey.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Todoey.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E5D85A221FF06E300414C79 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6E5D85A421FF06E300414C79 /* TodoListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoListViewController.swift; sourceTree = "<group>"; };
@@ -49,6 +51,7 @@
 			isa = PBXGroup;
 			children = (
 				6E5D85A421FF06E300414C79 /* TodoListViewController.swift */,
+				6E57FD22220BB971009C73F5 /* CategoryViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -173,6 +176,7 @@
 				6E5D85A521FF06E300414C79 /* TodoListViewController.swift in Sources */,
 				6E73D39D220552EA001A76AE /* DataModel.xcdatamodeld in Sources */,
 				6E5D85A321FF06E300414C79 /* AppDelegate.swift in Sources */,
+				6E57FD23220BB971009C73F5 /* CategoryViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
